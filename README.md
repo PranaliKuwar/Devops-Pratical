@@ -1,1 +1,1 @@
-# Devops-Pratical
+# Devops-Practical
